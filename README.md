@@ -1,4 +1,17 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## 👋 My name is Gustavo, but you can call me Gus
+
+🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about building reliable and scalable backend systems. I'm currently transitioning into the tech industry — combining strong communication skills with technical expertise.
+<br />
+
+### 📚 Academic Projects
+
+- **Academic Space Reservation System**  
+  Microservices architecture using Java (Spring Boot) and PostgreSQL.
+
+- **Software Installation Request System**  
+  Monolithic architecture built with Java, Spring Boot, PostgreSQL, and Angular.
+<br /><br />
+
 
 ###
 
