@@ -5,13 +5,12 @@
 
 ### 📚 Academic Projects
 
-- **Academic Space Reservation System**  
+- [**Academic Space Reservation System**]([https://github.com/GustavoCruzzz/LINK_AQUI](https://github.com/GustavoCruzzz/scea_microservices_architecture))  
   Microservices architecture using Java (Spring Boot) and PostgreSQL.
 
-- **Software Installation Request System**  
+- [**Software Installation Request System**]([https://github.com/GustavoCruzzz/LINK_AQUI](https://github.com/GustavoCruzzz/SolicitacaoAppBackEnd))  
   Monolithic architecture built with Java, Spring Boot, PostgreSQL, and Angular.
 <br /><br />
-
 
 ###
 
