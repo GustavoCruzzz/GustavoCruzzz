@@ -1,11 +1,13 @@
 # My name is Gustavo, but you can call me Gus
-🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about building reliable and scalable backend systems. I'm currently transitioning into the tech industry — combining strong communication skills with technical expertise.
+🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Science, Machine Learning and Deep Learning Techniques. I'm currently transitioning into the tech industry — combining strong communication skills with technical expertise..
 <br />
 ### 📚 Academic Projects
 - **[Academic Space Reservation System](https://github.com/GustavoCruzzz/scea_microservices_architecture)**  
   Microservices architecture using Java (Spring Boot) and PostgreSQL.
 - **[Software Installation Request System](https://github.com/GustavoCruzzz/SolicitacaoAppBackEnd)**  
   Monolithic architecture built with Java, Spring Boot, PostgreSQL, and Angular.
+- **[Mushroom Classification MLP](https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba)**  
+  MLP model for mushroom classification using Deep Learning techniques.
 
 
 ### 👨‍💻 Personal Projects
