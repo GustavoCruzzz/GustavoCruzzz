@@ -25,8 +25,8 @@
 
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoCruzzz&theme=radical" /></td>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoCruzzz&theme=radical&utcOffset=8" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoCruzzz&theme=radical" /></td>
     </tr>
   </table>
 
