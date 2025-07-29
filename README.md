@@ -18,12 +18,22 @@
 
 ###
 
+###
+
 <!-- Gráficos lado a lado centralizados -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCruzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoCruzzz&theme=radical" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoCruzzz&theme=radical&utcOffset=8" /></td>
+    </tr>
+  </table>
+
+</div>
 
 ###
+<br clear="both">
 
 <!-- Tecnologias centralizadas -->
 <div align="center">
