@@ -13,8 +13,9 @@
 ### 👨‍💻 Personal Projects
 - **[Delivery Management System backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**  
   Delivery managemant system for a construction material store, built with java + springboot
+- **[Project Viability AI](https://github.com/GustavoCruzzz/IA-ModeloAnaliseViabilidadedeProjetos)**  
+  AI model builted for predict a project viability based on investment, expected_return and impact_score
 <br /><br />
-
 
 ###
 
