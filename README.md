@@ -1,5 +1,5 @@
 # My name is Gustavo, but you can call me Gus
-🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Science, Machine Learning and Deep Learning Techniques. I'm currently transitioning into the tech industry — combining strong communication skills with technical expertise..
+🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques. I'm currently transitioning into the tech industry — combining strong communication skills with technical expertise..
 <br />
 ### 📚 Academic Projects
 - **[Academic Space Reservation System](https://github.com/GustavoCruzzz/scea_microservices_architecture)**  
