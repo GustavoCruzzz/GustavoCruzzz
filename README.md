@@ -17,6 +17,8 @@
   HR system for employee's controll, built using Node.js, express framework and graphQL 
 - **[Project Viability Logistic-Regression Model](https://github.com/GustavoCruzzz/IA-ModeloAnaliseViabilidadedeProjetos)**  
   AI model builted for predict a project viability based on investment, expected_return and impact_score
+- **[ETL Pipeline Meteorological Data](https://github.com/GustavoCruzzz/Pipeline-ETL-dados-meteorologicos)**  
+  ETL pipeline for extract, transform and load meteorological data from OpenWeather
 <br /><br />
 
 ###
