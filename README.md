@@ -1,14 +1,18 @@
 # My name is Gustavo, but you can call me Gus
 🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques, combining strong communication skills with technical expertise..
 <br />
-### 📚 Academic Projects
+### 📚 Academic Projects & Study Repositories
 - **[Academic Space Reservation System](https://github.com/GustavoCruzzz/scea_microservices_architecture)**  
   Microservices architecture using Java (Spring Boot) and PostgreSQL.
 - **[Software Installation Request System](https://github.com/GustavoCruzzz/SolicitacaoAppBackEnd)**  
   Monolithic architecture built with Java, Spring Boot, PostgreSQL, and Angular.
 - **[Mushroom Classification MLP](https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba)**  
   MLP model for mushroom classification using Deep Learning techniques.
-
+- **[ETL-Mibr-Valorant-Data-Analisys]([https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba](https://github.com/GustavoCruzzz/ETL-Mibr-Valorant-Data-Analisys))**  
+  Data Pipeline For extraction, transformation and load data from the professional valorant team MIBR.
+- **[Data Science course notebooks](https://github.com/GustavoCruzzz/NotebooksCursoDataScience)**  
+  Notebooks for data science studying.  
+  
 
 ### 👨‍💻 Personal Projects
 - **[Delivery Management System backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**  
@@ -21,7 +25,7 @@
   ETL pipeline for extract, transform and load meteorological data from OpenWeather
 <br /><br />
 
-###
+### 
 
 ###
 
