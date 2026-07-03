@@ -27,22 +27,6 @@
 ### 
 
 ###
-
-<!-- Gráficos lado a lado centralizados -->
-<div align="center">
-
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoCruzzz&theme=radical&utcOffset=8" /></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoCruzzz&theme=radical" /></td>
-    </tr>
-  </table>
-
-</div>
-
-###
-<br clear="both">
-
 <!-- Tecnologias centralizadas -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
