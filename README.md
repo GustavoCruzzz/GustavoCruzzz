@@ -1,6 +1,17 @@
 # My name is Gustavo, but you can call me Gus
 🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques, combining strong communication skills with technical expertise..
 <br />
+### 👨‍💻 Personal Projects
+- **[Delivery Management System backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**  
+  Delivery managemant system for a construction material store, built with java + springboot
+- **[Hr Portal System](https://github.com/GustavoCruzzz/Sytem-RH)**  
+  HR system for employee's controll, built using Node.js, express framework and graphQL 
+- **[Project Viability Logistic-Regression Model](https://github.com/GustavoCruzzz/IA-ModeloAnaliseViabilidadedeProjetos)**  
+  AI model builted for predict a project viability based on investment, expected_return and impact_score
+- **[ETL Pipeline Meteorological Data](https://github.com/GustavoCruzzz/Pipeline-ETL-dados-meteorologicos)**  
+  ETL pipeline for extract, transform and load meteorological data from OpenWeather
+<br /><br />
+
 ### 📚 Academic Projects & Study Repositories
 - **[Academic Space Reservation System](https://github.com/GustavoCruzzz/scea_microservices_architecture)**  
   Microservices architecture using Java (Spring Boot) and PostgreSQL.
@@ -12,18 +23,6 @@
   Data Pipeline For extraction, transformation and load data from the professional valorant team MIBR.
 - **[Data Science course notebooks](https://github.com/GustavoCruzzz/NotebooksCursoDataScience)**  
   Notebooks for data science studying.  
-  
-
-### 👨‍💻 Personal Projects
-- **[Delivery Management System backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**  
-  Delivery managemant system for a construction material store, built with java + springboot
-- **[Hr Portal System](https://github.com/GustavoCruzzz/Sytem-RH)**  
-  HR system for employee's controll, built using Node.js, express framework and graphQL 
-- **[Project Viability Logistic-Regression Model](https://github.com/GustavoCruzzz/IA-ModeloAnaliseViabilidadedeProjetos)**  
-  AI model builted for predict a project viability based on investment, expected_return and impact_score
-- **[ETL Pipeline Meteorological Data](https://github.com/GustavoCruzzz/Pipeline-ETL-dados-meteorologicos)**  
-  ETL pipeline for extract, transform and load meteorological data from OpenWeather
-<br /><br />
 
 ### 
 
