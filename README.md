@@ -1,6 +1,7 @@
 # My name is Gustavo, but you can call me Gus
 🎓 I'm a Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques, combining strong communication skills with technical expertise..
 <br />
+
 ### 👨‍💻 Personal Projects
 - **[Delivery Management System backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**  
   Delivery managemant system for a construction material store, built with java + springboot
