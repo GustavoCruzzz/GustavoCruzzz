@@ -20,7 +20,7 @@
   Monolithic architecture built with Java, Spring Boot, PostgreSQL, and Angular.
 - **[Mushroom Classification MLP](https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba)**  
   MLP model for mushroom classification using Deep Learning techniques.
-- **[ETL-Mibr-Valorant-Data-Analisys]([https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba](https://github.com/GustavoCruzzz/ETL-Mibr-Valorant-Data-Analisys))**  
+- **[ETL-Mibr-Valorant-Data-Analisys](https://github.com/GustavoCruzzz/ETL-Mibr-Valorant-Data-Analisys)**  
   Data Pipeline For extraction, transformation and load data from the professional valorant team MIBR.
 - **[Data Science course notebooks](https://github.com/GustavoCruzzz/NotebooksCursoDataScience)**  
   Notebooks for data science studying.  
