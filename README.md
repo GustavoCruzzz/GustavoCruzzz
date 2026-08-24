@@ -3,7 +3,7 @@
 <img width="1200" height="34" alt="divider" src="https://github.com/user-attachments/assets/4214b965-d61e-4176-9b6d-0607da9cae7b" />
 
 <p align="center">
-  <em>🎓 Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques — combining strong communication skills with technical expertise.</em>
+  🎓 Software Engineering student at Universidade Católica do Salvador, passionate about Development, Data Engineering, Machine Learning and Deep Learning Techniques — combining strong communication skills with technical expertise.
 </p>
 
 <br/>
@@ -11,16 +11,16 @@
 <img width="1200" height="90" alt="section-personal" src="https://github.com/user-attachments/assets/0a802d39-5e06-4b30-b0a6-6311ac362c6d" />
 
 - **[Delivery Management System — Backend](https://github.com/GustavoCruzzz/DelAgendaBackEnd)**
-  › *Delivery management system for a construction material store, built with Java + Spring Boot*
+  › Delivery management system for a construction material store, built with Java + Spring Boot
 
 - **[HR Portal System](https://github.com/GustavoCruzzz/Sytem-RH)**
-  › *HR system for employee control, built with Node.js, Express and GraphQL*
+  › HR system for employee control, built with Node.js, Express and GraphQL
 
 - **[Project Viability — Logistic Regression Model](https://github.com/GustavoCruzzz/IA-ModeloAnaliseViabilidadedeProjetos)**
-  › *AI model to predict project viability based on investment, expected return and impact score*
+  › AI model to predict project viability based on investment, expected return and impact score
 
 - **[ETL Pipeline — Meteorological Data](https://github.com/GustavoCruzzz/Pipeline-ETL-dados-meteorologicos)**
-  › *ETL pipeline to extract, transform and load meteorological data from OpenWeather*
+  › ETL pipeline to extract, transform and load meteorological data from OpenWeather
 
 <br/>
 
@@ -29,19 +29,19 @@
 <img width="1200" height="86" alt="section-academic" src="https://github.com/user-attachments/assets/4afaa90e-f03c-4450-bbc0-8f98b26af773" />
 
 - **[Academic Space Reservation System](https://github.com/GustavoCruzzz/scea_microservices_architecture)**
-  › *Microservices architecture using Java (Spring Boot) and PostgreSQL*
+  › Microservices architecture using Java (Spring Boot) and PostgreSQL
 
 - **[Software Installation Request System](https://github.com/GustavoCruzzz/SolicitacaoAppBackEnd)**
-  › *Monolithic architecture built with Java, Spring Boot, PostgreSQL and Angular*
+  › Monolithic architecture built with Java, Spring Boot, PostgreSQL and Angular
 
 - **[Mushroom Classification — MLP](https://github.com/GustavoCruzzz/TrabalhoFinal_DeepLearning_TomorrowUfba)**
-  › *MLP model for mushroom classification using Deep Learning techniques*
+  › MLP model for mushroom classification using Deep Learning techniques
 
 - **[ETL — MIBR Valorant Data Analysis](https://github.com/GustavoCruzzz/ETL-Mibr-Valorant-Data-Analisys)**
-  › *Data pipeline to extract, transform and load data from the professional Valorant team MIBR*
+  › Data pipeline to extract, transform and load data from the professional Valorant team MIBR
 
 - **[Data Science Course Notebooks](https://github.com/GustavoCruzzz/NotebooksCursoDataScience)**
-  › *Notebooks for data science studying*
+  › Notebooks for data science studying
 
 <br/>
 
